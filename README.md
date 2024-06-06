@@ -1,0 +1,1 @@
+# CQRS.MinimalAPI.Sample
