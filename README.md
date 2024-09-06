@@ -33,4 +33,11 @@ When designing your architecture using CQRS principles, you unlock several advan
     - These precomputed views provide denormalized data, making queries more straightforward and efficient.
     - As a result, your application can respond faster to user requests.
 
+# Implementation
+This project demonstrates the use of Minimal API pattern using the MediatR library, 
+SQLite database and EFCore8 as an ORM framework. Minimal APIs in ASP.NET Core offer a streamlined approach to building small microservices and HTTP APIs. 
+By leveraging ASP.NET Core’s hosting and routing capabilities, it allows creating fully functional APIs with 
+minimal code. This approach eliminates the need for complex scaffolding and unnecessary dependencies, 
+making it easier and faster to develop robust APIs.
+
 In summary, adopting CQRS principles empowers your architecture with better scalability, maintainability, and security. By separating concerns and optimizing data handling, you can build robust systems that meet the demands of modern applications.
