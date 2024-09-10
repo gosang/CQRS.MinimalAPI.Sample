@@ -42,6 +42,8 @@ making it easier and faster to develop robust APIs.
 
 In summary, adopting CQRS principles empowers your architecture with better scalability, maintainability, and security. By separating concerns and optimizing data handling, you can build robust systems that meet the demands of modern applications.
 
+A blog for Minimal API can be found at [Implementing Minimal API With ASP.NET Core Using Request Endpoint Response](https://gosang.github.io/posts/dotnet/implementing-minimal-api-with-asp-dotnet-core-using-pepr/)
+
 - [Visual Studio](https://visualstudio.microsoft.com/vs/community/) 2022 17.9.6 or greater
 - [.NET SDK 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
